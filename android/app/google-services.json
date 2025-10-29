@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858956405989",
+    "project_id": "eventospf-8622d",
+    "storage_bucket": "eventospf-8622d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858956405989:android:31ed7b63c8ada69827480c",
+        "android_client_info": {
+          "package_name": "com.grupopf.pfevents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBNh16Dv8ACpzwW-6I05Ch0sp5VBHa9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
